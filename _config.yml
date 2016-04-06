@@ -1,0 +1,13 @@
+# Site settings
+title: "Leipzig-Furman Collaboration: Textual Analysis"
+email: christopher.blackwell@furman.edu
+description: > # this means to ignore newlines until "baseurl:"
+    Annotating and Editing with Canonical Text Services (CTS). A project funded by the Andrew W. Mellon Foundation. Prof. Dr. Charlotte Schubert, University of Leipzig; Prof. Christopher Blackwell, Furman University, Principal Investigators. Using eComparatio and CITE/CTS to publish editions and analyses of Plutarch, Life of Pericles. A demonstration of integrated digital philology.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.uni-leipzig.de/~geschalt/ag501.htm" # the base hostname & protocol for your site
+twitter_username: cwblackwell
+github_username: eumaeus 
+
+# Build settings
+markdown: kramdown
